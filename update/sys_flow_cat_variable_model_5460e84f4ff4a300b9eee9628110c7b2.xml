@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>9c60e84f4ff4a300b9eee9628110c7b1</id>
+        <name>Action Test Flow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>mike.ellis</sys_created_by>
+        <sys_created_on>2018-10-01 11:26:28</sys_created_on>
+        <sys_id>5460e84f4ff4a300b9eee9628110c7b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_150465_needit_sp">76fb0c834ff4a300b9eee9628110c7ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">76fb0c834ff4a300b9eee9628110c7ce</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_5460e84f4ff4a300b9eee9628110c7b2</sys_update_name>
+        <sys_updated_by>mike.ellis</sys_updated_by>
+        <sys_updated_on>2018-10-01 11:26:28</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
